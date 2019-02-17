@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">WebServiceClient</string>
+<string name="get">Get</string>
+<string name="post">Post</string>
+<string name="put">Put</string>
+<string name="delete">Delete</string>
+<string name="enter_post_id">Enter post id</string>
+<string name="body">Body</string>
+<string name="name">Name</string>
+<string name="enter_body">Enter body</string>
+<string name="enter_title">Enter Title</string>
+<string name="enter_user_id">Enter user id</string>
+</resources>
