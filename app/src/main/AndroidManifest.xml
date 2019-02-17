@@ -12,7 +12,6 @@
         <activity android:name="com.example.zalwe.webserviceclient.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -20,7 +19,6 @@
         <activity android:name=".PostActivity" />
         <activity android:name=".GetActivity" />
         <activity android:name=".PutActivity" />
-
     </application>
 
 </manifest>
