@@ -31,7 +31,7 @@ public class GetActivity extends AppCompatActivity {
         setContentView(R.layout.activity_get);
 
         editTextPostId = findViewById(R.id.editTextPostId);
-        Button buttonGet = findViewById(R.id.buttonDelete);
+        Button buttonGet = findViewById(R.id.buttonGet);
         textViewData = findViewById(R.id.textViewData);
 
         buttonGet.setOnClickListener(new View.OnClickListener() {
