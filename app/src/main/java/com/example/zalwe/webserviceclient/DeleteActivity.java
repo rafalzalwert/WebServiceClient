@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.damian.webserviceclient.R;
 
 import java.net.URL;
 

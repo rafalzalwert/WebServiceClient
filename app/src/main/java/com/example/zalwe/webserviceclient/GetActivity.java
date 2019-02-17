@@ -12,7 +12,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.damian.webserviceclient.R;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;
